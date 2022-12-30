@@ -864,6 +864,18 @@ video {
   padding: 30px;
 }
 
+.p-\[12px\] {
+  padding: 12px;
+}
+
+.p-\[14px\] {
+  padding: 14px;
+}
+
+.p-\[8px\] {
+  padding: 8px;
+}
+
 .px-3 {
   padding-left: 0.75rem;
   padding-right: 0.75rem;
