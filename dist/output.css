@@ -807,6 +807,10 @@ video {
   max-width: 80rem;
 }
 
+.max-w-full{
+  max-width: 100%;
+}
+
 .grid-cols-4{
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
